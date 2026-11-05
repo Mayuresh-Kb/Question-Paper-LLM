@@ -1,0 +1,13 @@
+DATA STRUCTURES — UNIT 1
+1. Define a linked list and list its advantages. [4 Marks] [BTL: 1] [Topic: Lists]
+2. Explain insertion and deletion in a doubly linked list. [6 Marks] [BTL: 2] [Topic: Lists]
+3. Apply binary search to locate 23 in the sorted array 3, 8, 15, 23, 41. Show each step. [5 Marks] [BTL: 3] [Topic: Searching]
+4. Analyze the time complexity of merge sort. [6 Marks] [BTL: 4] [Topic: Sorting]
+5. Evaluate the choice of a hash table versus a binary search tree for a dictionary. [7 Marks] [BTL: 5] [Topic: Searching]
+6. Design a stack that supports finding the minimum element in constant time. [8 Marks] [BTL: 6] [Topic: Stacks]
+7. Describe the operations supported by a circular queue. [5 Marks] [BTL: 2] [Topic: Queues]
+8. Calculate the postfix result for 5 3 + 2 * using a stack. [5 Marks] [BTL: 3] [Topic: Stacks]
+9. Compare adjacency lists and adjacency matrices. [6 Marks] [BTL: 4] [Topic: Graphs]
+10. Justify the use of balanced trees for an index. [6 Marks] [BTL: 5] [Topic: Trees]
+11. List the properties of a binary heap. [4 Marks] [BTL: 1] [Topic: Heaps]
+12. Create an algorithm to detect a cycle in a directed graph. [8 Marks] [BTL: 6] [Topic: Graphs]

@@ -1,0 +1,16 @@
+services:
+  question-paper-generator:
+    build:
+      context: .
+    ports:
+      - "8000:8000"
+    environment:
+      RETENTION_HOURS: "168"
+      GEMINI_API_KEY: "${GEMINI_API_KEY:-}"
+      GEMINI_MODEL: "${GEMINI_MODEL:-gemini-2.5-flash}"
+    volumes:
+      - question-paper-data:/data
+    restart: unless-stopped
+
+volumes:
+  question-paper-data:

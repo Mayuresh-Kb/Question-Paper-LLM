@@ -1,0 +1,13 @@
+DATABASE SYSTEMS — UNIT 2
+1. Define a primary key and a foreign key. [4 Marks] [BTL: 1] [Topic: Keys]
+2. Explain referential integrity with an example. [5 Marks] [BTL: 2] [Topic: Keys]
+3. Write an SQL query to find departments with more than ten employees. [6 Marks] [BTL: 3] [Topic: SQL]
+4. Analyze a relation with partial dependencies and normalize it to second normal form. [7 Marks] [BTL: 4] [Topic: Normalization]
+5. Evaluate the trade-offs between row and column storage. [7 Marks] [BTL: 5] [Topic: Storage]
+6. Design an entity-relationship model for a university library. [8 Marks] [BTL: 6] [Topic: Modeling]
+7. Describe the ACID properties of a transaction. [5 Marks] [BTL: 2] [Topic: Transactions]
+8. Apply a two-phase locking protocol to a pair of concurrent transactions. [6 Marks] [BTL: 3] [Topic: Transactions]
+9. Compare clustered and non-clustered indexes. [6 Marks] [BTL: 4] [Topic: Indexing]
+10. Justify a database recovery strategy for a banking system. [7 Marks] [BTL: 5] [Topic: Recovery]
+11. List the different types of SQL joins. [4 Marks] [BTL: 1] [Topic: SQL]
+12. Create a schema for tracking inventory across multiple warehouses. [8 Marks] [BTL: 6] [Topic: Modeling]

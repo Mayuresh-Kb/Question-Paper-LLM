@@ -1,0 +1,14 @@
+.git
+.github
+.venv
+**/__pycache__
+**/.pytest_cache
+**/node_modules
+Question-generation-project-integrated-frontend/dist
+Question-Paper-Generation-main/storage
+.env
+run
+tmp
+output
+*.pyc
+*.log
